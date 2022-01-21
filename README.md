@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning blockchain.
 
 
 
